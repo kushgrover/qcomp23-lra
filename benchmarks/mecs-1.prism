@@ -1,0 +1,11 @@
+mdp
+
+module mec
+    s: [0..6] init 0;
+
+    [] true -> (s'=(mod(s + 1, 6)));
+endmodule
+
+rewards "default"
+    true: 5;
+endrewards

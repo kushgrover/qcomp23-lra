@@ -1,0 +1,2 @@
+//R{"attacks"}max=? [S]
+multi(R{"collisions"}min=? [S])
