@@ -1,0 +1,3 @@
+./src/storm-pars/*
+./src/storm-pars-cli/*
+./src/test/storm-pars/*

@@ -1,0 +1,3 @@
+[submodule "partial-exploration"]
+	path = partial-exploration
+	url = https://gitlab.lrz.de/i7/partial-exploration.git
